@@ -8,7 +8,7 @@ import com.example.employee.bean.EmployeeBean;
 import com.example.employee.bo.DepartmentBO;
 import com.example.employee.bo.EmployeeBO;
 import com.example.employee.bo.WorkProcessBO;
-import com.example.employee.form.DepartmentForm;	
+import com.example.employee.form.DepartmentForm;
 import com.example.employee.form.EmployeeForm;
 import com.example.employee.service.EmployeeService;
 
